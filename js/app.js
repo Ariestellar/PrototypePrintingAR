@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/BuildARTest.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/PrototypePrintingAR.github.io.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
